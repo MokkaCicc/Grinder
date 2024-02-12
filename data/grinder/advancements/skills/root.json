@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:book"
+    },
+    "title": "Skills",
+    "description": "What are you good at?",
+    "background": "minecraft:textures/block/beehive_end.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "unlock_right_away": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "unlock_right_away"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "name": {
+      "text": "Ice and Chitin",
+      "italic": false,
+      "color": "white"
+    }
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "text": "Learning how to gather",
+        "italic": false,
+        "color": "gray"
+      },
+      {
+        "text": "leather and craft basic",
+        "italic": false,
+        "color": "gray"
+      },
+      {
+        "text": "items",
+        "italic": false,
+        "color": "gray"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Recipes:[\"minecraft:leather\", \"minecraft:book\", \"minecraft:item_frame\", \"minecraft:leather_horse_armor\", \"minecraft:leather_helmet\", \"minecraft:leather_chestplate\", \"minecraft:leather_leggings\", \"minecraft:leather_boots\"]}"
+  }
+]

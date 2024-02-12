@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:binomial",
+        "p": 0.5,
+        "n": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "grinder:common"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "grinder:vanilla/chests/desert_pyramid"
+        }
+      ]
+    }
+  ]
+}

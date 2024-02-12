@@ -1,0 +1,24 @@
+{
+  "parent": "grinder:skills/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:leather"
+    },
+    "title": "Leatherworker",
+    "description": "You learned how to get leather and use it",
+    "hidden": true
+  },
+  "criteria": {
+    "leather_unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:leather"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "leather_unlock"
+    ]
+  ]
+}
