@@ -1,0 +1,28 @@
+[
+  {
+    "function": "minecraft:set_name",
+    "target": "item_name",
+    "name": {
+      "text": "Ice and Chitin",
+      "color": "white"
+    }
+  },
+  {
+    "function": "minecraft:set_lore",
+    "mode": "replace_all",
+    "lore": [
+      {
+        "text": "Learning how to gather",
+        "color": "gray"
+      },
+      {
+        "text": "leather and craft basic",
+        "color": "gray"
+      },
+      {
+        "text": "items.",
+        "color": "gray"
+      }
+    ]
+  }
+]

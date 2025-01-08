@@ -10,7 +10,11 @@
           "functions": [
             {
               "function": "minecraft:reference",
-              "name": "grinder:ice_and_chitin"
+              "name": "grinder:ice_and_chitin_lore"
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "grinder:leatherworker_recipes"
             }
           ]
         }

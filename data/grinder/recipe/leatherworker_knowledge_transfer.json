@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:writable_book",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:item_name": {
+        "text": "Leatherworker",
+        "color": "white"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Knowledge transfer",
+          "color": "gray"
+        }
+      ],
+      "minecraft:recipes": [
+        "grinder:leatherworker_knowledge_transfer",
+        "minecraft:leather",
+        "minecraft:book",
+        "minecraft:item_frame",
+        "minecraft:leather_horse_armor",
+        "minecraft:leather_helmet",
+        "minecraft:leather_chestplate",
+        "minecraft:leather_leggings",
+        "minecraft:leather_boots"
+      ]
+    }
+  }
+}
