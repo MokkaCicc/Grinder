@@ -4,7 +4,7 @@
   },
   {
     "condition": "minecraft:entity_properties",
-    "entity": "direct_killer",
+    "entity": "direct_attacker",
     "predicate": {
       "type_specific": {
         "type": "player",
