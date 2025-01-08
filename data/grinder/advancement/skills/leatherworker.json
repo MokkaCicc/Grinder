@@ -2,7 +2,7 @@
   "parent": "grinder:skills/root",
   "display": {
     "icon": {
-      "item": "minecraft:leather"
+      "id": "minecraft:leather"
     },
     "title": "Leatherworker",
     "description": "You learned how to get leather and use it",

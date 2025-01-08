@@ -10,7 +10,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "grinder:common"
+          "value": "grinder:common"
         }
       ]
     },
@@ -19,7 +19,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "grinder:vanilla/chests/desert_pyramid"
+          "value": "grinder:vanilla/chests/desert_pyramid"
         }
       ]
     }
